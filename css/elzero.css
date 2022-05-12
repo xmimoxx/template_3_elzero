@@ -1431,6 +1431,7 @@ a {
     font-weight: bold;
     font-size: 25px;
     width: 400px;
+    cursor: pointer;
 }
 @media (max-width:767px) {
     .discount .request form button{
